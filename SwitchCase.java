@@ -28,6 +28,7 @@ public class SwitchCase {
             System.out.println("weekday");
             break;
         }
+        //IN SWITCH CASE NESTING ALSO POSSIBLE 
             
 
     }
