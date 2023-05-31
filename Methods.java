@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class Methods {
     public static void main(String[] args) {
         //IN JAVA THERE IS NO PASS BY REFERENCE ONLY PASS BY VALUE IS POSSIBLE
@@ -10,7 +12,7 @@ public class Methods {
 
         int[] arr = {1,2,3,4,5};
         chaneNum(arr); // pass by copy of value of reference 
-        System.out.println(arr.toString()); 
+        System.out.println(Arrays.toString(arr)); 
 
         int a=10;
         // BLOCK
