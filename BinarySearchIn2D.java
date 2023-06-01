@@ -1,6 +1,8 @@
 import java.util.Arrays;
 
 public class BinarySearchIn2D {
+    //u can still optimise it think , if not refer kunal notes in github 
+    
     public static void main(String[] args) {
         int [][] matrix = {
             {1,2,3,4},
