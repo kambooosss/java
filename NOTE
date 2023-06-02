@@ -1,3 +1,9 @@
 ->  IN JAVA THERE IS NO OPERATOR OVERLOADING , ONLY ONE INTENTIONAL OPERATOR OVERLOADING GIVEN BY JAVA IS 
     "+" OPERATOR AS WE CAN USE IT FOR STRING CONCATINATION AND ADDITION OF INTEGERS
 ->  no of digits in base 'b' of number 'n' = int(log n base b ) + 1
+
+->  if n&(n-1)==0 then n is power of 2
+
+->  gcd (a,b) = gcd(reminder(b,a),a); euclid's algorithmm 
+
+  
