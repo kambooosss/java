@@ -6,4 +6,14 @@
 
 ->  gcd (a,b) = gcd(reminder(b,a),a); euclid's algorithmm 
 
-  
+->  final varibale must be always initialized when it is declared
+
+->  staic varibale are not depended on object . even if the object are not created it can be accesed.(how)
+
+->  static block runs only once when a first object is created.
+
+->  static methods cant be overriden
+
+
+
+ 
