@@ -12,5 +12,12 @@ public class Main {
         Daughter daughter = new Daughter();
         daughter.career("doctor");
         daughter.bike("scooty");
+
+
+        //Parent dad = new Parent();
+        //this gives error because we cant create object of abstract calss , only we can extend 
+
+        Parent.hello(); // can call static methods in abstract clsss no problem 
+
     }
 }
